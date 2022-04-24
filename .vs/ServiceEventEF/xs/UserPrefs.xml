@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{98F89F90-DA27-4155-BACB-6A95F7C006F6}|Default">
+  <MonoDevelop.Ide.ItemProperties.ServiceEventEF PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ServiceEventEF/Controllers/FormaPagoController.cs">
+    <Files>
+      <File FileName="ServiceEventEF/Controllers/TriviaOpcionsController.cs" Line="67" Column="40" />
+      <File FileName="ServiceEventEF/Controllers/TriviaRespuestasController.cs" />
+      <File FileName="ServiceEventEF/Controllers/FormaPagoController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ServiceEventEF" expanded="True">
+            <Node name="ServiceEventEF" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="FormaPagoController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
